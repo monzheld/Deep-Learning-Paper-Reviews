@@ -17,4 +17,7 @@
 ## NLP(Natural Language Processing)
 
 - Joint Learning of Words and Meaning Representations for Open-Text Semantic Parsing (AISTATS 2012) [[pdf]](http://proceedings.mlr.press/v22/bordes12/bordes12.pdf)
+   - [Review](https://monzheld.tistory.com/40)
+
+- Distributed Representations of Words and Phrases and their Compositionality (Word2Vec, 2013) [[pdf]](https://proceedings.neurips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)
 
