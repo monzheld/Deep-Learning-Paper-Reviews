@@ -20,4 +20,4 @@
    - [Review](https://monzheld.tistory.com/40)
 
 - Distributed Representations of Words and Phrases and their Compositionality (Word2Vec, 2013) [[pdf]](https://proceedings.neurips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)
-
+   - [Review](https://monzheld.tistory.com/47)
