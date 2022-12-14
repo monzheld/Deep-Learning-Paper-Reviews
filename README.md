@@ -5,7 +5,7 @@
 <br><br><br>
 
 
-## CNN(Convolutional Neural Network)
+## CV(Computer Vision)
 
 - ImageNet Classification with Deep Convolutional Neural Networks (AlexNet, 2012) [[pdf]](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
    - [Review](https://monzheld.tistory.com/27)
@@ -23,3 +23,11 @@
    - [Review](https://monzheld.tistory.com/47)
 
 - Attention Is All You Need (Transformer, 2017) [[pdf]](https://arxiv.org/pdf/1706.03762.pdf)
+
+
+
+<br><br><br>
+
+## RecSys(Recommender System)
+
+- 
